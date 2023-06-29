@@ -1,0 +1,4 @@
+0000000000000000000000000000000000000000 43ea4d2d8b4f617b296c4b2f04ac0f8e409b5a97 vinferno <vinsonfernandez@gmail.com> 1657043825 -0700	branch: Created from HEAD
+43ea4d2d8b4f617b296c4b2f04ac0f8e409b5a97 b6602bf4d7a047d8038c4d9a3ed44e1c534f379f vinferno <vinsonfernandez@gmail.com> 1657043919 -0700	commit: feat(api): add httpclientmodule to app module
+b6602bf4d7a047d8038c4d9a3ed44e1c534f379f f313e2e5893712e2083f2f2e3c4bc759692affd4 vinferno <vinsonfernandez@gmail.com> 1657044111 -0700	commit: feat(api): generate api service with ng
+f313e2e5893712e2083f2f2e3c4bc759692affd4 112458d40084d1a3fc097a11da76e4b734cf53c6 vinferno <vinsonfernandez@gmail.com> 1657044220 -0700	commit: feat(api): add http client and setup get route

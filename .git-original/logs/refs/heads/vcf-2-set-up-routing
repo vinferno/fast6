@@ -1,0 +1,3 @@
+0000000000000000000000000000000000000000 7fb568193917d715db1f8b5d273df9ac5cb97912 vinferno <vinsonfernandez@gmail.com> 1657043033 -0700	branch: Created from HEAD
+7fb568193917d715db1f8b5d273df9ac5cb97912 f20ddbfcb3fd9de26d6362550ecdaf81af54c0af vinferno <vinsonfernandez@gmail.com> 1657043232 -0700	commit: feat(routing): imported routing component in router
+f20ddbfcb3fd9de26d6362550ecdaf81af54c0af a30f73e874c78d0c091ece4ff07425b6460bb19c vinferno <vinsonfernandez@gmail.com> 1657043349 -0700	commit: refactor(app): updated template to user router

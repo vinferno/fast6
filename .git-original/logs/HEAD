@@ -1,0 +1,16 @@
+0000000000000000000000000000000000000000 66564a3078560aaecc50571e96cf32afcad1ea36 vinferno <vinsonfernandez@gmail.com> 1657040377 -0700	commit (initial): initial commit
+66564a3078560aaecc50571e96cf32afcad1ea36 66564a3078560aaecc50571e96cf32afcad1ea36 vinferno <vinsonfernandez@gmail.com> 1657041584 -0700	checkout: moving from master to vcf-3-create-user-list
+66564a3078560aaecc50571e96cf32afcad1ea36 0aae60d549b840938a1ed74c21bb38739c046f4e vinferno <vinsonfernandez@gmail.com> 1657041715 -0700	commit: feat(users): generate list users component
+0aae60d549b840938a1ed74c21bb38739c046f4e 73713ca8846db0e59ec6562546a08d5093ae7198 vinferno <vinsonfernandez@gmail.com> 1657042207 -0700	commit: feat(git): add template for prs
+73713ca8846db0e59ec6562546a08d5093ae7198 a4a830dbab3b04a4b2912492c7bf76b9324ef7e1 vinferno <vinsonfernandez@gmail.com> 1657042586 -0700	commit: feat(users): list users in template based off fauxdata
+a4a830dbab3b04a4b2912492c7bf76b9324ef7e1 66564a3078560aaecc50571e96cf32afcad1ea36 vinferno <vinsonfernandez@gmail.com> 1657042929 -0700	checkout: moving from vcf-3-create-user-list to master
+66564a3078560aaecc50571e96cf32afcad1ea36 7fb568193917d715db1f8b5d273df9ac5cb97912 vinferno <vinsonfernandez@gmail.com> 1657042938 -0700	pull --tags origin master: Fast-forward
+7fb568193917d715db1f8b5d273df9ac5cb97912 7fb568193917d715db1f8b5d273df9ac5cb97912 vinferno <vinsonfernandez@gmail.com> 1657043033 -0700	checkout: moving from master to vcf-2-set-up-routing
+7fb568193917d715db1f8b5d273df9ac5cb97912 f20ddbfcb3fd9de26d6362550ecdaf81af54c0af vinferno <vinsonfernandez@gmail.com> 1657043232 -0700	commit: feat(routing): imported routing component in router
+f20ddbfcb3fd9de26d6362550ecdaf81af54c0af a30f73e874c78d0c091ece4ff07425b6460bb19c vinferno <vinsonfernandez@gmail.com> 1657043349 -0700	commit: refactor(app): updated template to user router
+a30f73e874c78d0c091ece4ff07425b6460bb19c 7fb568193917d715db1f8b5d273df9ac5cb97912 vinferno <vinsonfernandez@gmail.com> 1657043780 -0700	checkout: moving from vcf-2-set-up-routing to master
+7fb568193917d715db1f8b5d273df9ac5cb97912 43ea4d2d8b4f617b296c4b2f04ac0f8e409b5a97 vinferno <vinsonfernandez@gmail.com> 1657043789 -0700	pull --tags origin master: Fast-forward
+43ea4d2d8b4f617b296c4b2f04ac0f8e409b5a97 43ea4d2d8b4f617b296c4b2f04ac0f8e409b5a97 vinferno <vinsonfernandez@gmail.com> 1657043825 -0700	checkout: moving from master to vcf-6-create-api-service
+43ea4d2d8b4f617b296c4b2f04ac0f8e409b5a97 b6602bf4d7a047d8038c4d9a3ed44e1c534f379f vinferno <vinsonfernandez@gmail.com> 1657043919 -0700	commit: feat(api): add httpclientmodule to app module
+b6602bf4d7a047d8038c4d9a3ed44e1c534f379f f313e2e5893712e2083f2f2e3c4bc759692affd4 vinferno <vinsonfernandez@gmail.com> 1657044111 -0700	commit: feat(api): generate api service with ng
+f313e2e5893712e2083f2f2e3c4bc759692affd4 112458d40084d1a3fc097a11da76e4b734cf53c6 vinferno <vinsonfernandez@gmail.com> 1657044220 -0700	commit: feat(api): add http client and setup get route
